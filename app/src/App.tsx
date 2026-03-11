@@ -19,14 +19,12 @@ function App() {
       <Router>
         <div className="min-h-screen bg-background">
           <Navbar />
-          <div className="min-h-screen bg-background">
-  <Navbar />
-
-  <img
+          <img
     src="/adfam/images/hero-family.jpg"
     alt="Hero"
     style={{width: "100%", maxWidth: "800px"}}
   />
+  
 
   <main>
           <main>
