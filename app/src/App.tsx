@@ -17,12 +17,13 @@ function App() {
   return (
     <AppProvider>
       <Router>
-        <div className="min-h-screen bg-background">
-          <Navbar />
-          <img
+        <<div className="min-h-screen bg-background">
+  <Navbar />
+
+  <img
     src="/adfam/images/hero-family.jpg"
     alt="Hero"
-    style={{width: "100%", maxWidth: "800px"}}
+    style={{ width: "100%", maxWidth: "800px" }}
   />
   
 
